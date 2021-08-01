@@ -1,0 +1,16 @@
+R:\Romisaa\C#\Managment App\ManageConsoleApp\bin\Debug\net5.0\ManageConsoleApp.exe
+R:\Romisaa\C#\Managment App\ManageConsoleApp\bin\Debug\net5.0\ManageConsoleApp.deps.json
+R:\Romisaa\C#\Managment App\ManageConsoleApp\bin\Debug\net5.0\ManageConsoleApp.runtimeconfig.json
+R:\Romisaa\C#\Managment App\ManageConsoleApp\bin\Debug\net5.0\ManageConsoleApp.runtimeconfig.dev.json
+R:\Romisaa\C#\Managment App\ManageConsoleApp\bin\Debug\net5.0\ManageConsoleApp.dll
+R:\Romisaa\C#\Managment App\ManageConsoleApp\bin\Debug\net5.0\ref\ManageConsoleApp.dll
+R:\Romisaa\C#\Managment App\ManageConsoleApp\bin\Debug\net5.0\ManageConsoleApp.pdb
+R:\Romisaa\C#\Managment App\ManageConsoleApp\obj\Debug\net5.0\ManageConsoleApp.csproj.AssemblyReference.cache
+R:\Romisaa\C#\Managment App\ManageConsoleApp\obj\Debug\net5.0\ManageConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+R:\Romisaa\C#\Managment App\ManageConsoleApp\obj\Debug\net5.0\ManageConsoleApp.AssemblyInfoInputs.cache
+R:\Romisaa\C#\Managment App\ManageConsoleApp\obj\Debug\net5.0\ManageConsoleApp.AssemblyInfo.cs
+R:\Romisaa\C#\Managment App\ManageConsoleApp\obj\Debug\net5.0\ManageConsoleApp.csproj.CoreCompileInputs.cache
+R:\Romisaa\C#\Managment App\ManageConsoleApp\obj\Debug\net5.0\ManageConsoleApp.dll
+R:\Romisaa\C#\Managment App\ManageConsoleApp\obj\Debug\net5.0\ref\ManageConsoleApp.dll
+R:\Romisaa\C#\Managment App\ManageConsoleApp\obj\Debug\net5.0\ManageConsoleApp.pdb
+R:\Romisaa\C#\Managment App\ManageConsoleApp\obj\Debug\net5.0\ManageConsoleApp.genruntimeconfig.cache
