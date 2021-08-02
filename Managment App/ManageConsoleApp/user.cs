@@ -1,58 +1,28 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Text;
 
 namespace ManageConsoleApp
 {
-    class user
+    public class user
     {
-        public int Head;
-        public int Tail;
-        public int count;
-        public int[] arr;
-        public queueArray(int size)
+        public string Name {get; set;}
+        public int Age {get; set;}
+        public string Email {get; set;}
+        public string textFilePath {get; set;}
+
+        public user(string Name, int Age, string Email)
         {
-            arr = new int[size];
-            Head = Tail = count = 0;
+            this.Name = Name;
+            this.Age = Age;
+            this.Email = Email;
+            Console.WriteLine("Working");
         }
 
-        public void enqueue(int value)
+        public user(string v)
         {
-            if(Tail == arr.Length)
-            {
-                Console.WriteLine("Queue is Full");
-            }else{
-                arr[Tail] = value;
-                Tail++;
-                count++;
-            }
-            
+        }
+    }
 
-        }
-        public int dequeue()
-        {
-            int value;
-            
-            if(count == 0)
-            {
-                Console.WriteLine("Empty");
-            }else
-            {
-               value = arr[Head];
-                Head++;
-                count--; 
-            }
-            return value;
-                    
-        }
-        public bool isempty()
-        {
-            if(count == 0)
-            {
-                return true;
-            }else
-            {
-                return false;
-            }
-        }
-}
 }
